@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "770460960920",
+    "firebase_url": "https://hahah-a5c2b.firebaseio.com",
+    "project_id": "hahah-a5c2b",
+    "storage_bucket": "hahah-a5c2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770460960920:android:f5dd1df98b2690590528ed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770460960920-t12koftk7dsins3sn3liakcefbdrqgiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvldnzYCuCr8AMET_U0CZgFCEfDmxhyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770460960920-t12koftk7dsins3sn3liakcefbdrqgiv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "770460960920-rcpktehhl3dsj26jifot9g57hl337qhn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.higenis.helloHigenisHahah"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
